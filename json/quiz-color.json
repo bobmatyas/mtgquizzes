@@ -1,0 +1,255 @@
+{
+  "colors": {
+    "W": "White",
+    "U": "Blue",
+    "B": "Black",
+    "R": "Red",
+    "G": "Green"
+  },
+  "combinations": [
+    {
+      "id": "azorius",
+      "name": "Azorius",
+      "colorIdentity": "WU",
+      "colors": ["W", "U"],
+      "colorNames": ["White", "Blue"],
+      "count": 2,
+      "category": "guild"
+    },
+    {
+      "id": "boros",
+      "name": "Boros",
+      "colorIdentity": "WR",
+      "colors": ["W", "R"],
+      "colorNames": ["White", "Red"],
+      "count": 2,
+      "category": "guild"
+    },
+    {
+      "id": "dimir",
+      "name": "Dimir",
+      "colorIdentity": "UB",
+      "colors": ["U", "B"],
+      "colorNames": ["Blue", "Black"],
+      "count": 2,
+      "category": "guild"
+    },
+    {
+      "id": "golgari",
+      "name": "Golgari",
+      "colorIdentity": "BG",
+      "colors": ["B", "G"],
+      "colorNames": ["Black", "Green"],
+      "count": 2,
+      "category": "guild"
+    },
+    {
+      "id": "gruul",
+      "name": "Gruul",
+      "colorIdentity": "RG",
+      "colors": ["R", "G"],
+      "colorNames": ["Red", "Green"],
+      "count": 2,
+      "category": "guild"
+    },
+    {
+      "id": "izzet",
+      "name": "Izzet",
+      "colorIdentity": "UR",
+      "colors": ["U", "R"],
+      "colorNames": ["Blue", "Red"],
+      "count": 2,
+      "category": "guild"
+    },
+    {
+      "id": "orzhov",
+      "name": "Orzhov",
+      "colorIdentity": "WB",
+      "colors": ["W", "B"],
+      "colorNames": ["White", "Black"],
+      "count": 2,
+      "category": "guild"
+    },
+    {
+      "id": "rakdos",
+      "name": "Rakdos",
+      "colorIdentity": "BR",
+      "colors": ["B", "R"],
+      "colorNames": ["Black", "Red"],
+      "count": 2,
+      "category": "guild"
+    },
+    {
+      "id": "selesnya",
+      "name": "Selesnya",
+      "colorIdentity": "WG",
+      "colors": ["W", "G"],
+      "colorNames": ["White", "Green"],
+      "count": 2,
+      "category": "guild"
+    },
+    {
+      "id": "simic",
+      "name": "Simic",
+      "colorIdentity": "UG",
+      "colors": ["U", "G"],
+      "colorNames": ["Blue", "Green"],
+      "count": 2,
+      "category": "guild"
+    },
+    {
+      "id": "bant",
+      "name": "Bant",
+      "colorIdentity": "WUG",
+      "colors": ["W", "U", "G"],
+      "colorNames": ["White", "Blue", "Green"],
+      "count": 3,
+      "category": "shard"
+    },
+    {
+      "id": "esper",
+      "name": "Esper",
+      "colorIdentity": "WUB",
+      "colors": ["W", "U", "B"],
+      "colorNames": ["White", "Blue", "Black"],
+      "count": 3,
+      "category": "shard"
+    },
+    {
+      "id": "grixis",
+      "name": "Grixis",
+      "colorIdentity": "UBR",
+      "colors": ["U", "B", "R"],
+      "colorNames": ["Blue", "Black", "Red"],
+      "count": 3,
+      "category": "shard"
+    },
+    {
+      "id": "jund",
+      "name": "Jund",
+      "colorIdentity": "BRG",
+      "colors": ["B", "R", "G"],
+      "colorNames": ["Black", "Red", "Green"],
+      "count": 3,
+      "category": "shard"
+    },
+    {
+      "id": "naya",
+      "name": "Naya",
+      "colorIdentity": "WRG",
+      "colors": ["W", "R", "G"],
+      "colorNames": ["White", "Red", "Green"],
+      "count": 3,
+      "category": "shard"
+    },
+    {
+      "id": "abzan",
+      "name": "Abzan",
+      "colorIdentity": "WBG",
+      "colors": ["W", "B", "G"],
+      "colorNames": ["White", "Black", "Green"],
+      "count": 3,
+      "category": "wedge"
+    },
+    {
+      "id": "jeskai",
+      "name": "Jeskai",
+      "colorIdentity": "WUR",
+      "colors": ["W", "U", "R"],
+      "colorNames": ["White", "Blue", "Red"],
+      "count": 3,
+      "category": "wedge"
+    },
+    {
+      "id": "sultai",
+      "name": "Sultai",
+      "colorIdentity": "UBG",
+      "colors": ["U", "B", "G"],
+      "colorNames": ["Blue", "Black", "Green"],
+      "count": 3,
+      "category": "wedge"
+    },
+    {
+      "id": "mardu",
+      "name": "Mardu",
+      "colorIdentity": "WBR",
+      "colors": ["W", "B", "R"],
+      "colorNames": ["White", "Black", "Red"],
+      "count": 3,
+      "category": "wedge"
+    },
+    {
+      "id": "temur",
+      "name": "Temur",
+      "colorIdentity": "URG",
+      "colors": ["U", "R", "G"],
+      "colorNames": ["Blue", "Red", "Green"],
+      "count": 3,
+      "category": "wedge"
+    },
+    {
+      "id": "glint-eye",
+      "name": "Glint-Eye",
+      "colorIdentity": "UBRG",
+      "colors": ["U", "B", "R", "G"],
+      "colorNames": ["Blue", "Black", "Red", "Green"],
+      "count": 4,
+      "category": "four-color",
+      "omittedColor": "W",
+      "omittedColorName": "White"
+    },
+    {
+      "id": "dune-brood",
+      "name": "Dune-Brood",
+      "colorIdentity": "WBRG",
+      "colors": ["W", "B", "R", "G"],
+      "colorNames": ["White", "Black", "Red", "Green"],
+      "count": 4,
+      "category": "four-color",
+      "omittedColor": "U",
+      "omittedColorName": "Blue"
+    },
+    {
+      "id": "ink-treader",
+      "name": "Ink-Treader",
+      "colorIdentity": "WURG",
+      "colors": ["W", "U", "R", "G"],
+      "colorNames": ["White", "Blue", "Red", "Green"],
+      "count": 4,
+      "category": "four-color",
+      "omittedColor": "B",
+      "omittedColorName": "Black"
+    },
+    {
+      "id": "witch-maw",
+      "name": "Witch-Maw",
+      "colorIdentity": "WUBG",
+      "colors": ["W", "U", "B", "G"],
+      "colorNames": ["White", "Blue", "Black", "Green"],
+      "count": 4,
+      "category": "four-color",
+      "omittedColor": "R",
+      "omittedColorName": "Red"
+    },
+    {
+      "id": "yore-tiller",
+      "name": "Yore-Tiller",
+      "colorIdentity": "WUBR",
+      "colors": ["W", "U", "B", "R"],
+      "colorNames": ["White", "Blue", "Black", "Red"],
+      "count": 4,
+      "category": "four-color",
+      "omittedColor": "G",
+      "omittedColorName": "Green"
+    },
+    {
+      "id": "five-color",
+      "name": "Five-Color",
+      "colorIdentity": "WUBRG",
+      "colors": ["W", "U", "B", "R", "G"],
+      "colorNames": ["White", "Blue", "Black", "Red", "Green"],
+      "count": 5,
+      "category": "five-color"
+    }
+  ]
+}

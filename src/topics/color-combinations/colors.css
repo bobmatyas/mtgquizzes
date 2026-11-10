@@ -1,0 +1,39 @@
+.color-choice {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
+.pips {
+  display: inline-flex;
+  flex-shrink: 0;
+  gap: 0.3rem;
+  margin-top: 0.35rem;
+}
+
+.pip {
+  width: 0.85rem;
+  height: 0.85rem;
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 1px rgba(28, 25, 21, 0.28);
+}
+
+.pip-W {
+  background: #f4f0dc;
+}
+
+.pip-U {
+  background: #0e68ab;
+}
+
+.pip-B {
+  background: #2b2b2b;
+}
+
+.pip-R {
+  background: #d3202a;
+}
+
+.pip-G {
+  background: #00733e;
+}
